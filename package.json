@@ -1,0 +1,9 @@
+{
+  "name": "pgonbo_calculadora",
+  "version": "1.0.2",
+  "description": "Calculadora basica para dos números",
+  "license": "MIT",
+  "author": "El gato javero",
+  "main": "src/index.js",
+  "scripts": {}
+}
